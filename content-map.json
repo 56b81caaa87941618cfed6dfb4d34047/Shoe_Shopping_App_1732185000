@@ -1,0 +1,23 @@
+{
+    "name": "example",
+    "prefix": "%#PLACEHOLDER",
+    "placeholderMappings": {
+        "Header": [
+            "APPLICATION_NAME"
+        ],
+        "Hero": [
+            "HERO_HEADING_TEXT",
+            "HERO_SUBHEADING_TEXT"
+        ],
+        "Footer": [
+            "APPLICATION_NAME",
+            "FOOTER_TEXT"
+        ]
+    },
+    "placeholders": {
+        "APPLICATION_NAME": "SoleStyle",
+        "HERO_HEADING_TEXT": "Step into Comfort and Style",
+        "HERO_SUBHEADING_TEXT": "Discover your perfect pair from our curated collection of trendy and comfortable footwear",
+        "FOOTER_TEXT": "\u00a9 2023 SoleStyle. Walk with confidence."
+    }
+}
